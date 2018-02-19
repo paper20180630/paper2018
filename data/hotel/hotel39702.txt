@@ -1,0 +1,13 @@
+{'短评内容': '很不错，就是有点吵', '短评打分': 5}
+{'短评内容': '厕所排风机是坏的，差评，抽不了厕所异味。花洒不行，出水不集中，冲凉不过瘾。放在房的电脑是坏的，差评！', '短评打分': 3}
+{'短评内容': '环境卫生干净', '短评打分': 5}
+{'短评内容': '没有第一次给的房间好…卫生方面细节有点小问题…大体还可以…给个好评', '短评打分': 3}
+{'短评内容': '很好的酒店…就是位置难找…在小区里面…对面是骨伤医院往前点…虽然因为台风只住了几个小时…不过果断过几天回来还要选这家住', '短评打分': 4}
+{'短评内容': '环境很好，唯一缺点就是没有电梯', '短评打分': 5}
+{'短评内容': '边上都是大排档，房间不吵闹。老板和老板娘人很好，其他么也一般了', '短评打分': 3}
+{'短评内容': '这个价位，还可以吧！', '短评打分': 3}
+{'短评内容': '感觉不错！工作人员热情！房间还行....', '短评打分': 4}
+{'短评内容': 'The owners were helpful with advice about their city. The arranged transportation for us for the airport and sightseeing. ', '短评打分': 5}
+{'短评内容': '房间还行，交通方便，免费停车。', '短评打分': 3}
+{'短评内容': '没有电梯，需要爬楼，没有电脑房，其他没什么问题', '短评打分': 3}
+{'短评内容': 'the owners where helpful with advise, and arranging transfers for sightseeing, to airport, etc. the facilities where comfortable, and the bathroom had the basic necessities. it was conveniently locate', '短评打分': 5}

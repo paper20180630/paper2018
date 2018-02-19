@@ -1,0 +1,7 @@
+{'短评内容': '酒店配套太旧，比较难找', '短评打分': 1}
+{'短评内容': '卫生太糟糕，完全不是人住的。人生第一次这这么脏的地方。。', '短评打分': 2}
+{'短评内容': 'Dirty bathroom, no hot water for 2 days, shower installation not working in 2 different rooms. Almost no service from front desk. Location is ok, 15 walking from shopping, Walmart and local food. Not ', '短评打分': 2}
+{'短评内容': '酒店设施不够齐全，大床房都只有一双拖鞋，吹风机也没有，到现在比较陈旧了，周围倒是不是吵闹，一般吧', '短评打分': 3}
+{'短评内容': '比较干净，房间很大，有送机班车?但要看人数如何', '短评打分': 5}
+{'短评内容': '离机场开车15分钟，其他一般', '短评打分': 4}
+{'短评内容': '大小还可以，环境也还可以，就是里面还大胆播放A片，还3星呢，太令人失望。窗外就是碧海湾高尔夫，有伤大雅。', '短评打分': 1}

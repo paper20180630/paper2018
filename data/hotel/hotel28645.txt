@@ -1,0 +1,2 @@
+{'短评内容': '环境还可以，吃，对面就有KFC，唱，对面有普乐迪，距离市中心文化广场1km，市客运中心才1km不到！', '短评打分': 5}
+{'短评内容': "comfortable room , nice service , conveniet traffic , and cozy community , except they don't provide a microwave for you to heat some food . ", '短评打分': 5}

@@ -1,0 +1,13 @@
+{'短评内容': '酒店坐落在机场附近，是一个居民区，约十五分钟车程！酒店周边生活设施齐全，饭店，KFC，超市都有！酒店内也是一应俱全，设施完善！值得五星推荐的酒店', '短评打分': 5}
+{'短评内容': '酒店是一家性价比比较高的转机酒店，基本设施应有尽有，接机及时，前台服务也很热情及耐心，酒店自带餐厅，不用担心饿肚子哦！', '短评打分': 5}
+{'短评内容': '酒店离机场很近，贴心的是有接送机服务，这一点很值得推荐，酒店设备齐全，服务热情，下次还会来的！！', '短评打分': 5}
+{'短评内容': '真的，很干净的酒店！服务的话，接送都有，师傅很好，这个价格相当实惠', '短评打分': 5}
+{'短评内容': 'As always up to standard.But the food in the canteen was too much expensive.Or the cookie wanted to over charge us.', '短评打分': 3}
+{'短评内容': 'Up to standard,service also good.Airport transportation was perfect and on time', '短评打分': 4}
+{'短评内容': '房间大小还可以，设施较全', '短评打分': 4}
+{'短评内容': '环境不错', '短评打分': 5}
+{'短评内容': 'its good,every good', '短评打分': 5}
+{'短评内容': '代学生预定的，反应不错！', '短评打分': 5}
+{'短评内容': "I got the feeling the hotel I booked was full so I was moved to another place, but it wasn't too bad. Very cheap, not too far from the airport. Decent. ", '短评打分': 3}
+{'短评内容': '酒店位置比较偏，不过服务还可以，就是设备设施可能需要更换了，淋浴喷头有点碎了', '短评打分': 5}
+{'短评内容': '酒店服务蛮好的，有免费的接送机，有需要的话还是会定，送机大叔态度不好，时间还没到就催促，还说大家都在等我，可是发车时间还没到好吗。。。', '短评打分': 4}

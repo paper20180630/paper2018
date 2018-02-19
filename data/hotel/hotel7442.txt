@@ -1,0 +1,18 @@
+{'短评内容': '房间烟味重……对于不吸烟的简直是折磨！', '短评打分': 2}
+{'短评内容': '马马虎虎，就是我都离开酒店了，携程网还没给我退押金，不怎么什么鬼', '短评打分': 3}
+{'短评内容': '服务好，不错', '短评打分': 5}
+{'短评内容': '还行吧……', '短评打分': 5}
+{'短评内容': '房间太小了，其余的还不错。', '短评打分': 5}
+{'短评内容': '还好，就是没有窗子', '短评打分': 5}
+{'短评内容': '非常不错!', '短评打分': 4}
+{'短评内容': 'as usual, booked the budget room.  the market near by was closed down on this trip.  called the phoenix market.  i am hoping they are just remodeling, but now you have to take the bus to get to a mark', '短评打分': 4}
+{'短评内容': '一般', '短评打分': 4}
+{'短评内容': '感觉太差了，所谓的体验就更差了。说好的8.10送早餐，还得催。要等到8.39。不想说了', '短评打分': 3}
+{'短评内容': '很失望', '短评打分': 1}
+{'短评内容': 'i started with the budget room on the 4th floor.  at the end of my trip i moved into the nicer room on the 8th floor.  i dont think the room are amazingly bigger, but they are laid out much more effic', '短评打分': 5}
+{'短评内容': 'so in continuation to my last review of this place.  i actually booked 2 other hotels and didnt like them and came back to this place. paid more and was really bad.   i did hear there is a bus stop ne', '短评打分': 4}
+{'短评内容': 'for the price of staying, i thought it was a good deal.  room was older but not dirty or falling apart.  i went to stay at 3 other places costing triple the amount here, and they were really bad. i do', '短评打分': 4}
+{'短评内容': '空间比较大，环境干净', '短评打分': 3}
+{'短评内容': '房间环境不咋地，有点旧！', '短评打分': 4}
+{'短评内容': '虽然装修一般，但是性价比挺好的，而且服务员的态度还可以，值得，', '短评打分': 5}
+{'短评内容': '酒店房间设置还可以，就是房间不能打电话，害得我手机没有电了，没带充电器，有点麻烦，', '短评打分': 5}

@@ -1,0 +1,6 @@
+{'descr': '还可以~~~~~~~~~··~~~~~~~~~~~~·', 'star': 5}
+{'descr': '不错。 服务也很好                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~', 'star': 5}
+{'descr': 'convenience,but it is too expensive than other same hotel', 'star': 3}
+{'descr': '设施比较陈旧\n大厅比较有感觉 但是进了房间就是一般的招待所么｀', 'star': 5}
+{'descr': '很好很干净!下次还来', 'star': 3}
+{'descr': '出行方便。房间也还不错。但是不提供早餐这点有些不完善。', 'star': 5}

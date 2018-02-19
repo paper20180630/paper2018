@@ -1,0 +1,28 @@
+{'descr': '非常感谢。', 'star': 5}
+{'descr': '环境不错,面积挺大,设施虽然有些旧了,但洗手间还算整洁,性价比不错。服务挺好,帮忙把行李送到房间，一路还有简单介绍。', 'star': 5}
+{'descr': '这个季节没人 经常住的酒店 便宜啊', 'star': 5}
+{'descr': '还不错，常买，喜欢这个牌子', 'star': 5}
+{'descr': '还不错，常买，喜欢这个牌子', 'star': 5}
+{'descr': '酒店设施老旧，早餐品种太少，环境较一般，唯一配得上4星的就是服务了。前台服务员很礼貌，餐厅服务员态度热情。', 'star': 4}
+{'descr': '出差在携程网订的酒店，真是四星吗？酒店设备太老旧了吧，马桶盖子坏了半边也不修，且房间隔音不好，室外及隔壁屋声音听的很清楚。自助早餐也实在一般，酒店较偏。唯一亮点是该店服务员，无论大厅还是餐厅的服务生态度确实很好。', 'star': 4}
+{'descr': '带着家在农村的姐姐去北京旅游，回来顺路秦皇岛下车，网上订的位于老龙头风景区内的四星级海盛花园酒店，因为是淡季吧？价格很便宜。酒店位置就在老龙头路的路边，很好找，酒店很气派，房间挺大，设施、被褥都很干净，前台服务态度也很好！一楼餐厅做的家常菜很合我们的口味，尤其是姐姐，吃饭毛病很多，好多东西都不吃，在北京期间饭一直吃不好，但在这里吃的很满意！菜量也大，第一天我俩点两个菜却只吃了一半，舍不得扔掉，打包', 'star': 5}
+{'descr': '挺好的 离景区很近 就是周边比较荒一些', 'star': 5}
+{'descr': '挺好的 离景区近就是周边比较荒一些', 'star': 5}
+{'descr': '操刀制作技巧白色衬衫黑色紧身裤搭配短靴更是黑色', 'star': 5}
+{'descr': '价格倒是很便宜，就是设施太陈旧了', 'star': 5}
+{'descr': '一般般，还可以吧。', 'star': 5}
+{'descr': 'The location is entriely cut off from the amenities but nearby the sea side. Many flying bugs inside the room. And some hotel rrom facilities need to fix. But the blackfast is so good. ', 'star': 2}
+{'descr': '就是没吃早餐，不知道什么样', 'star': 3}
+{'descr': '地理位置很好  出行很方便', 'star': 5}
+{'descr': '服务一般', 'star': 4}
+{'descr': '房间很大，卫生没的说，设施都是比较新的。尤其值得称赞的是大厅，欧式风格很气派。酒店前面是一个湖，环境不错，停车免费。', 'star': 5}
+{'descr': '不太行', 'star': 3}
+{'descr': '不错，房间不错，早餐不错', 'star': 5}
+{'descr': '安静，整洁，商务出差不错', 'star': 3}
+{'descr': 'first time i stay in this hotel... i guess i wont go back anymore... location not located in the city centre... with the price in small city like this, i think it is not worth staying... nevertheless,', 'star': 3}
+{'descr': '除了早餐，别都不错', 'star': 5}
+{'descr': '环境不错！', 'star': 5}
+{'descr': '酒店不错！离老龙头景区走路也就10分钟路程。自助早餐相当丰盛！我们和老人住的都很满意！赞一个！', 'star': 5}
+{'descr': '据当地朋友说是山海关最好的酒店了。\n目前在进行外部装修，不影响营业，但整体环境感觉差了点。\n早饭很简单，而且每天一样，不是太满意。\n但既然是山海关唯一的四星酒店，真有朋友到那边游玩也只能推荐这家酒店。希望外墙装修后能有比较大的改观。', 'star': 5}
+{'descr': '很好很不错 装修好 但是就是早餐太早结束了 九点就没了', 'star': 3}
+{'descr': '位置较偏，其他设施都非常好。', 'star': 3}

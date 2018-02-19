@@ -1,0 +1,20 @@
+{'descr': '房间比一般快捷性酒店大，设施也还行，适合家庭出游选择', 'star': 4}
+{'descr': '实际上，这是一个公寓，前台到点下班，到点还经常不上班。。。周围吃东西打车还算方便', 'star': 3}
+{'descr': '性价比很高，是酒店式公寓所有有居家的感觉，房间也很大', 'star': 4}
+{'descr': '环境不错 值得推荐!', 'star': 5}
+{'descr': '交通便利，闹中取静，就是价格再便宜点最好', 'star': 4}
+{'descr': '1.酒店晚上没人值班.\r\n2.酒店宽带不通(服务范畴内的).\r\n3.酒店电话不通\r\n4.入住前不可以看房.\r\n5.酒店内的用品久未使用(水壶里面太脏)', 'star': 1}
+{'descr': '酒店的服务太差，前台就是大楼的物业管理人员，晚上值班的就是保安，早上六点半离店时结账，前台没有人，等了半个小时，来的人居然不会操作POS机。号称三星级酒店居然没有早餐！', 'star': 1}
+{'descr': '酒店的服务太差，前台就是大楼的物业管理人员，晚上值班的就是保安，早上六点半离店时结账，前台没有人，等了半个小时，来的人居然不会操作POS机。号称三星级酒店居然没有早餐！', 'star': 1}
+{'descr': '适合租房者，设施旧，房间空调不给力，基本设施不到位，不会再去住。', 'star': 1}
+{'descr': '适合租房者，设施旧，房间空调不给力，基本设施不到位，不会再去住。', 'star': 1}
+{'descr': '很实用的公寓式客房，不过好像不适合我这样一个临时住一夜的客人', 'star': 5}
+{'descr': '很实用的公寓式客房，不过好像不适合我这样一个临时住一夜的客人', 'star': 5}
+{'descr': '. 地方人流复杂。。 感觉不好。 环境差', 'star': 3}
+{'descr': '. 地方人流复杂。。 感觉不好。 环境差', 'star': 3}
+{'descr': '位置不错，其他都很一般！没有想象中的好！', 'star': 5}
+{'descr': '位置不错，其他都很一般！没有想象中的好！', 'star': 5}
+{'descr': 'At first they gave me very small room, then I refused, later they change it and gave me a bigger room, while it has no any facilities ... I accepted because I had no any other choice, it was mid night', 'star': 1}
+{'descr': 'At first they gave me very small room, then I refused, later they change it and gave me a bigger room, while it has no any facilities ... I accepted because I had no any other choice, it was mid night', 'star': 1}
+{'descr': '环境不错，室内布置挺美观，女同事一起出差还特登找我到他房间帮她拍床上照，说她好喜欢。不过就是洗澡房很小，一个人都觉得有点挤，其他方面还行', 'star': 5}
+{'descr': '环境不错，室内布置挺美观，女同事一起出差还特登找我到他房间帮她拍床上照，说她好喜欢。不过就是洗澡房很小，一个人都觉得有点挤，其他方面还行', 'star': 5}

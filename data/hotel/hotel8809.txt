@@ -1,0 +1,4 @@
+{'短评内容': '很有人情味的客栈哦，一家热情的东北人儿.一到丽江陈哥就热情的开车把我们从巴士站接到客栈，杨姐还帮我们制定了游玩计划。由于中间有两天去香格里拉，客栈还主动抠出的中间一天的房费。大年三十晚上还送来了热腾腾的东北饺子。总之是一次开心的旅行。', '短评打分': 5}
+{'短评内容': '位置略偏，相对于城内更便宜的客栈来说，性价比不高', '短评打分': 1}
+{'短评内容': '老板家的态度虽然很亲切，但是它毕竟不是在古城内，相比即使是城内也更便宜和有特色的客栈，我觉得它的性价比不是很高，另，那个淋浴头真的有点问题，水打的太开了，出了身体上，哪都能喷到，换了两件房也抖一样', '短评打分': 1}
+{'短评内容': 'this inn is across the street from crown plaza hotel, you have to go into the alley to get to the hotel. room is reasonable size. very basic facilities. the disappointing thing is that they did not cl', '短评打分': 5}

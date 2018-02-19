@@ -1,0 +1,15 @@
+{'短评内容': '服务什么的还可以，不过环境一般，介意的请绕行。', '短评打分': 3}
+{'短评内容': '一般', '短评打分': 3}
+{'短评内容': '环境好，离市区近！', '短评打分': 5}
+{'短评内容': '青旅很不错，没想到第一次出来玩，第一次住青旅便有了一个不一样的感受！大写的赞', '短评打分': 5}
+{'短评内容': '环境还可以 有很多外国人', '短评打分': 4}
+{'短评内容': '四人间内有独立卫生间。女老板很好。热情，解决问题灵活。义工女孩很负责肯吃苦。工作人员都太忙，电话不好打通', '短评打分': 5}
+{'短评内容': '环境服务一般。但是因为遇见了灰灰，一个可爱的热情的义工，我的旅行与众不同。原打算住一晚换地，因为和灰灰结伴玩，就住了下去。既是青旅，倒也释怀！感谢遇见！', '短评打分': 3}
+{'短评内容': '还行吧，没有预期的好', '短评打分': 5}
+{'短评内容': 'The backpacker hostel is fine, the place is not the cleanest ever but the ambience is nice, the owners as well. Fares are regular, for extra services as well.We booked a private room on 3rd floor, it ', '短评打分': 4}
+{'短评内容': '青旅的范，有感觉！', '短评打分': 5}
+{'短评内容': "Great place. Comfy enough bed, very accommodating, and the map and travel tips they provide are really useful. I'd suggest doing the hiking trip to Mandian Waterfall that is on their suggestions.", '短评打分': 4}
+{'短评内容': 'Un établissement familial simple bien tenu par Caffy et plutôt bien situé par rapport au centre-ville. Nous avons été en dortoir, et tout sest bien passé. On a eu la possibilité de diner sur place via', '短评打分': 5}
+{'短评内容': 'very good', '短评打分': 5}
+{'短评内容': '老板人很好。不过店里设备装修太老了。', '短评打分': 5}
+{'短评内容': '酒店条件简陋！晚上床顶漏水！', '短评打分': 2}

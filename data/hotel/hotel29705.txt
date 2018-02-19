@@ -1,0 +1,4 @@
+{'短评内容': "Close to Wulingyuan area, we got a better room because of a water problem and the second building's rooms are quieter, nicer and big. First building has a KTV so it's noisy. \nProfessional service and ", '短评打分': 5}
+{'短评内容': '由于附近酒店爆满，只能代朋友住此酒店。酒店的普间很差，陈旧，有滴水。还好，酒店最好升级到豪华间，没有话好说。但是，早餐很差，一遍狼藉，很多旅行团的旅客素质很差，搞到餐厅也一遍狼藉。吓到朋友掉头就走，不敢碰早餐。', '短评打分': 1}
+{'短评内容': ' 离武陵源门口不远不近 爬完山下来绝对不想走打个车五元公交一元。酒店一般般，我们房间的下水道那是太糟糕了，修了几次还没修好。', '短评打分': 3}
+{'短评内容': '离景区标志门很近，步行10分钟就到了，早餐很丰富，品种挺多的。服务还可以，设施有点旧，淋浴间太小', '短评打分': 5}

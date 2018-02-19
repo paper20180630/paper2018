@@ -1,0 +1,35 @@
+{'descr': '好好好好好好好好好好好好好好好好好好好好好', 'star': 5}
+{'descr': '很好', 'star': 5}
+{'descr': '卫生干净，有停车场，出行方便快捷', 'star': 5}
+{'descr': '…………………哦哦哦哦哦哦哦………………………………………………………………………………\\sssssss', 'star': 5}
+{'descr': '一来就住着，习惯了，旁边有吃的超市什么都有，很方便', 'star': 5}
+{'descr': '&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;', 'star': 5}
+{'descr': '酒店位置优越，地铁9号线C口出来前行200米即是;前台工作人员还算热情，如果押金不是现金，前台就要押你的身份证了(是不是有些奇葩);房间的情况看图片即可，房间很暖，所以要多备点水，以免夜里口干;其他情况中规中矩，值得推荐亲入住...', 'star': 4}
+{'descr': '好好好好好好好好好好好好好好好好好好好好好', 'star': 5}
+{'descr': '&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;', 'star': 5}
+{'descr': '111111', 'star': 5}
+{'descr': '&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;', 'star': 5}
+{'descr': '&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;', 'star': 5}
+{'descr': '&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;', 'star': 5}
+{'descr': '&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;', 'star': 5}
+{'descr': '~&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;', 'star': 5}
+{'descr': '连锁酒店，环境不错', 'star': 5}
+{'descr': '&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;', 'star': 5}
+{'descr': '还不错，送货速度真的超级快的，支持京东就是因为送货速度快，没有别的特别之处了。继续加油呗！', 'star': 5}
+{'descr': '好_------', 'star': 5}
+{'descr': '111', 'star': 5}
+{'descr': '挺好', 'star': 5}
+{'descr': '房间的干净程度还可以。没有一次性拖鞋。低价房的窗户是内窗，通风效果差点。热水很快。最近隔壁在装修，噪音很大。周边快餐店，拉面馆很多。离东大街地铁站很近。', 'star': 5}
+{'descr': '还可以吧 比其他地方便宜', 'star': 5}
+{'descr': '还可以吧 比其他网便宜', 'star': 5}
+{'descr': '还可以吧 比其他网便宜', 'star': 5}
+{'descr': '很好的酒店，不错的设施和好的服务好的享受。交通便捷，环境不错，附近有好多吃饭的地方，价格合理，推荐入住。', 'star': 5}
+{'descr': '新房间特别好，服务热情。真心好啊', 'star': 5}
+{'descr': '环境挺好交通方便  推荐', 'star': 5}
+{'descr': '干净整洁，非常舒适', 'star': 5}
+{'descr': '一般吧……', 'star': 3}
+{'descr': '服务挺好，卫生还行，离北京西站相当近，离地铁站也近，相当便利。', 'star': 4}
+{'descr': '服务挺好，卫生也还行，性价比还可以，值得入住。', 'star': 4}
+{'descr': '一般般吧', 'star': 5}
+{'descr': '房间内干净整洁，服务又好，非常满意', 'star': 5}
+{'descr': '房间有点小', 'star': 5}

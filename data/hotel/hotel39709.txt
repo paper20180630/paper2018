@@ -1,0 +1,15 @@
+{'短评内容': '离张家界森林公园很近， 打车几分钟就到了，附近的餐厅很多，公馆的服务也很好。 ', '短评打分': 5}
+{'短评内容': '算是不错的客栈~老板人很好~这边离森林公园门口非常近~离魅力湘西表演的地方也很近~对于过来游玩的朋友应该算是比较方便的~只是设施有点旧，只达到三星的标准~不过性价比还不错~', '短评打分': 4}
+{'短评内容': '非常值得信赖', '短评打分': 5}
+{'短评内容': '早餐很好吃！位置也很好，住的也不错！在当地客栈中算是不错的了', '短评打分': 5}
+{'短评内容': '很好 老板和你热情  ', '短评打分': 5}
+{'短评内容': "I stayed for 2 nights in November in the attic room. Nice room, good hot shower, bathrobe and shower shoes, waterboiler (but dring your own tea/coffee etc) The first night the heater didn't work well ", '短评打分': 4}
+{'短评内容': 'Great hotel in Wulingyuan.  Rooms are large, modern, and most importantly CLEAN.  The photos of the hotel are accurate.  Location is great just minutes walk away from shops and restaurants.   Highly r', '短评打分': 5}
+{'短评内容': 'Enjoyed our stay! The rooms are clean and generally comfortable. They do charge for things like slippers and tea, which are normally free - and the breakfast is quite a simple affair (but you can orde', '短评打分': 5}
+{'短评内容': '酒店环境不错，交通也方便，靠近商业区，晚上十点前有点吵，总体不错。', '短评打分': 5}
+{'短评内容': 'It is a very nice hotel. The room was very clean the lady at the reception was very helpful. If you go to here to see the famous mountains it is a good hotel. The beds are very comfortable, and the pr', '短评打分': 5}
+{'短评内容': 'Great. Friendly. Clean. ', '短评打分': 4}
+{'短评内容': '非常满意 全5分', '短评打分': 5}
+{'短评内容': '这家客栈在溪布街靠近水车的位置后面，地理位置还不错，房间是实木风格的，有浴缸，一天旅行完泡泡还是很舒服的', '短评打分': 5}
+{'短评内容': '感觉不错', '短评打分': 4}
+{'短评内容': '非常不错的选择', '短评打分': 5}

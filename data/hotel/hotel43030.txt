@@ -1,0 +1,10 @@
+{'短评内容': '酒店位置好', '短评打分': 5}
+{'短评内容': '好', '短评打分': 5}
+{'短评内容': '有专车到机场接送，交通很方便，服务很热情，房间卫生也很好', '短评打分': 5}
+{'短评内容': '免费送机场服务不错家庭宾馆干净整洁适合旅游度假选择', '短评打分': 2}
+{'短评内容': '整体一般，离飞机场近，其他想不出什么优点', '短评打分': 2}
+{'短评内容': '很好！很到位！', '短评打分': 5}
+{'短评内容': "Overall it's almost perfect beside it's too far from town. Thanks to the owner.", '短评打分': 4}
+{'短评内容': '好，酒店离机场有一公里左右，有车接送，老板人很不错，下次还住。', '短评打分': 3}
+{'短评内容': 'Overall are good, the service, the room, the bed, the owner, etc. Just the light are darker but not the matters for us. I recommend this hotel if you will fly at the next morning.', '短评打分': 5}
+{'短评内容': '酒店有车来接，半夜飞机到！真的很不错！大标间超级好！', '短评打分': 3}

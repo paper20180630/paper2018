@@ -1,0 +1,19 @@
+{'短评内容': '好好好好好好好', '短评打分': 5}
+{'短评内容': '好好好好。。。。。', '短评打分': 5}
+{'短评内容': '火车站出来走不少路才到，周边施工，道路泥泞；入住后觉得太脏了，每个地方脏到恐怖，当时太晚了没有办法换，早上看清更郁闷，立马退房，出去看到旁边是武汉肝病医院，估计这幢房子二楼都是这个医院。经历荣登最差榜首！', '短评打分': 1}
+{'短评内容': '这个价格不求什么，能睡。', '短评打分': 3}
+{'短评内容': '好好好好。。。。。。', '短评打分': 5}
+{'短评内容': '环境还不错，价格便宜！', '短评打分': 3}
+{'短评内容': 'The location is very great if you want to be near Hankou train station or the bus station to go to the airport.I stay 2 times here,First time, the room is dilapidated, but clean bed, showerSecond time', '短评打分': 5}
+{'短评内容': 'The location is very great if you want to be near Hankou train station or the bus station to go to the airport.I stay 2 times here,First time, the room is dilapidated, but clean bed, showerSecond time', '短评打分': 5}
+{'短评内容': '实话讲房间里的卫生还是有待于改善。希望下次会更好。', '短评打分': 5}
+{'短评内容': '离火车站有些距离', '短评打分': 3}
+{'短评内容': 'this hotel is little dirty. and there is bug when I open the door.', '短评打分': 3}
+{'短评内容': '环境很好，价格便宜', '短评打分': 5}
+{'短评内容': '给力，下次还住这里', '短评打分': 5}
+{'短评内容': '挺好的，价格也便宜，环境也不错，下次还住这边', '短评打分': 5}
+{'短评内容': '很差的酒店，住了一天就换了，你们住不住，自己看着办吧！', '短评打分': 2}
+{'短评内容': '屋内光线太暗，房间设备陈旧破损！！！', '短评打分': 3}
+{'短评内容': '感觉还行吧，房间蛮大', '短评打分': 3}
+{'短评内容': '很一般，厕所坏的，下次不会去了', '短评打分': 3}
+{'短评内容': ' 网速不快 其他还可以', '短评打分': 3}

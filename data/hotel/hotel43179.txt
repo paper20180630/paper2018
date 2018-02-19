@@ -1,0 +1,12 @@
+{'短评内容': '住的舒服，转机乘客入住很方便。', '短评打分': 5}
+{'短评内容': '住的非常舒服，转机顾客住的方便。', '短评打分': 5}
+{'短评内容': '不错 价格优惠 房间整洁', '短评打分': 5}
+{'短评内容': '一般般比较偏僻不过整个村子的酒店都有接送机服务比较不错', '短评打分': 4}
+{'短评内容': 'New owners.  I havent quite decided if I like them as much as the last owners.', '短评打分': 4}
+{'短评内容': 'We love the location, thats why we keep going back to it!!!', '短评打分': 3}
+{'短评内容': 'The hotel is nice. Not the cleanest ever but it will do anything it can to make your stay a good one. Plus they have free pickup and drop off to the airport. A great cheap option by the airport. ', '短评打分': 3}
+{'短评内容': '酒店比我想象的好很多，还免费接送机司机挺客气的等了我们好久，10分钟就到酒店了，环境干净卫生，服务态度很好，下次还来', '短评打分': 5}
+{'短评内容': '酒店有点偏，在村里，周边超市餐馆挺多的', '短评打分': 4}
+{'短评内容': '是我住过的最恶心的酒店了，卫生太差，房间里的东西都不敢碰，桌子上全是灰，走廊楼梯铺了地毯，可是上面全是灰，感觉每一脚下去灰都起来了，真是恶心到了', '短评打分': 1}
+{'短评内容': '离机场很近，而且有很贴心的接送机服务，房间布置温馨，价格也是听优惠的，而且里面卖的特产也不贵，赞一个', '短评打分': 5}
+{'短评内容': '总体还可以吧，晚上一点多入住的，酒店该去接，挺好', '短评打分': 3}

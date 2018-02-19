@@ -1,0 +1,15 @@
+{'短评内容': '老酒店凑合住。                                            ', '短评打分': 4}
+{'短评内容': '房间很大，床也挺舒服的。整体还挺满意的。晚上周边好，很多烧烤宵夜可以吃。还有办公桌，性价比确实很高的。', '短评打分': 5}
+{'短评内容': '卫生干净交通方便', '短评打分': 5}
+{'短评内容': '不错，，，，，，', '短评打分': 5}
+{'短评内容': '环境不错，这个价位到广州最起码要翻一翻还多，，', '短评打分': 5}
+{'短评内容': '很好', '短评打分': 5}
+{'短评内容': '簡單乾淨，出差推薦，地點交通方便，附近買東西方便', '短评打分': 3}
+{'短评内容': '房间陈旧，前台服务态度也不好，欠你们钱了？拉着个死人脸', '短评打分': 3}
+{'短评内容': '一直住这家酒店', '短评打分': 5}
+{'短评内容': '整体还行，价格不算太贵', '短评打分': 3}
+{'短评内容': '环境不错，隔音还好，卫生还可以', '短评打分': 5}
+{'短评内容': '还不错，很好的', '短评打分': 5}
+{'短评内容': '以前也去住过，交通还是比较方便，旁边吃的也方便，虽然是老宾馆了房间还是比较干净的', '短评打分': 5}
+{'短评内容': 'the location is right downtown.  However, walking into the hotel has the smell of the joss sticks.  I lived on the 3rd floor and it is not so high and does not look very safe.  However, the hotel seem', '短评打分': 3}
+{'短评内容': 'The hotel is a bit old, but had some renovation done.  The hotel as not high, thus I lived on the 3rd floor.  However, it seems not to be so safe if one leave the window open.  There are many foods ar', '短评打分': 3}

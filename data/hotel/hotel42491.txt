@@ -1,0 +1,5 @@
+{'短评内容': '酒店服务较差。', '短评打分': 3}
+{'短评内容': '一般般', '短评打分': 4}
+{'短评内容': '太小了房子，服务有待提', '短评打分': 3}
+{'短评内容': '位置不怎么好，二楼窗户没防盗网，感觉不安全！', '短评打分': 3}
+{'短评内容': 'If you want a hotel which is cheap and can single bed, this is for you to stay. stay in Guangzhou can be a big problem as you cannot find cheap hotels close to railway station. This location is also n', '短评打分': 3}

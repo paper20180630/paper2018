@@ -1,0 +1,10 @@
+{'短评内容': '差差差差差', '短评打分': 1}
+{'短评内容': '可以，可以&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;', '短评打分': 5}
+{'短评内容': 'The worst hotel I ever been, I have to change it, totally dirty hot water only for 15 minutes. The worst choice that you can make. The towers were discounting i couldnt used. The receptionist when I a', '短评打分': 2}
+{'短评内容': '房间空间小，床不舒服，设施简单粗糙', '短评打分': 3}
+{'短评内容': '房间不大，隔音不好，卫生间在阳台上，同一层楼的女人半夜回来，和男人吵吵闹闹，养的狗猫还有兔子，半夜放出来遛，我不知道是来干嘛的。', '短评打分': 4}
+{'短评内容': '隔音不好，卫生间在阳台上，同一层楼的女人半夜回来，养的狗猫还有兔子，我不知道是来干嘛的。', '短评打分': 4}
+{'短评内容': 'Very friendly managers, cheap and well located. Otherwise, the hotel is not that clean but still worth the price.', '短评打分': 4}
+{'短评内容': '环境与设施及卫生多一般般，就一旅馆', '短评打分': 2}
+{'短评内容': '不推荐：没电梯，五层提着大行李箱爬楼很累；519洗澡的水龙头是坏的，水很小；网络太差，刚开始还凑活能用，从晚上10点左右开始几乎上不了，显示连接成功，但是根本打不开网页，用360测速软件测试提示您未连接网络或网络异常。', '短评打分': 3}
+{'短评内容': '房间不错,很干净', '短评打分': 3}

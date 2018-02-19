@@ -1,0 +1,15 @@
+{'descr': '干净，舒适，方便', 'star': 5}
+{'descr': '周围环境不行，房间卫生一般', 'star': 4}
+{'descr': '位置好服务好', 'star': 5}
+{'descr': '是快捷酒店的标配，基本可以满足性价比高的需求！', 'star': 4}
+{'descr': '干净，安静，舒适', 'star': 4}
+{'descr': '还可以吧，主要是便宜，位置也相对方便', 'star': 5}
+{'descr': '还不错', 'star': 5}
+{'descr': '酒店不在路边，标牌不够醒目，旁边是个农贸市场，人很多，环境有点乱，房间面积小，设施也比较简陋，卫生条件一般。', 'star': 4}
+{'descr': '总体还不错，就是隔音不好！这个价格也算值了！', 'star': 4}
+{'descr': '快捷酒店也就这样，卫生还不错，房间隔音效果不好，对面几个家庭旅行团吵闹得不行，打电话投诉吧！发现房间电话是坏的。', 'star': 4}
+{'descr': 'buhaode jiudian  chuangshangyouyigen wanwanququde maomao  xiangxiangjiuzhidaoshishenmele ', 'star': 3}
+{'descr': '不错，还算卫生。提供的洗漱用具简单了些。', 'star': 4}
+{'descr': '不错', 'star': 5}
+{'descr': '还好还好，为什么非得输入15个字呢', 'star': 4}
+{'descr': '好的', 'star': 4}

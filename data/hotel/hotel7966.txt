@@ -1,0 +1,8 @@
+{'短评内容': '还是不错的～很温馨啊', '短评打分': 4}
+{'短评内容': 'Really good hostel with nice employees. They were always really helpful. Clean rooms, simple bathrooms. Great location, 5 min walk to the beach ', '短评打分': 5}
+{'短评内容': 'Really good location, less then 5min. from Dadonghai beach. Very nice hostel, the staff is really helpful. It has a cafe bar backyard with free snooker/billiard which is a real summer place to sit and', '短评打分': 5}
+{'短评内容': '地理位置优越，吃喝行都很方便', '短评打分': 3}
+{'短评内容': '离海滩挺近的，几分钟的路程，附近吃的也挺多，就是房间有点小，老板人挺好的', '短评打分': 4}
+{'短评内容': '从来没有住过这么差的，打电话预定的时候问过，店员告知冷热水都有。去了发现连自来水都没有。更别提热水了。酒店设施陈旧。就这层次还卖480元，这个硬件设施也就是50元城中村的水准。', '短评打分': 1}
+{'短评内容': '这家客栈交通极其方便，到各个景点都有直达车，周围也有很多海鲜大排档，走5分钟就能到免税店啦 ：）客栈的庭院很漂亮，很悠闲。客房很干净，很舒适。老板娘和她的员工们都特亲切的，万事有求必应。最重要的是我们能在这里认识世界各地的朋友，和他们坐在庭院里聊天的感觉特棒的，可以说在这里我享受到了星级酒店可能都无法比拟的待遇，真的玩的很开心，真的很喜欢三亚，很喜欢三亚背包客栈！只可惜这次时间仓促，希望下次有机会', '短评打分': 5}
+{'短评内容': '性价比不高\n老板娘挺热情。\n房间比较小。\n', '短评打分': 1}

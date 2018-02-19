@@ -1,0 +1,4 @@
+{'短评内容': '位置在旺角，市口很好，餐饮的地方相当多，房间虽小，各项设施齐全。但是浴室没有挂衣服的钩子，台盆龙头没有热水。', '短评打分': 3}
+{'短评内容': 'I had paid by PayPal well in advance, but when I arrived in afternoon to check-in, the hotel had no information of my booking or payment. The staff said I can pay by cash, and they will arrange my Pay', '短评打分': 2}
+{'短评内容': '旺角闹市区里的小宾馆，最大的好处就是逛街吃饭都很方便，下楼就是了。老板都好热情。不过房间就唔敢话好好啦，唔住过香港其他噶宾馆，可能都系平均水平啦。', '短评打分': 4}
+{'短评内容': '旺角闹市区里的小宾馆，最大的好处就是逛街吃饭都很方便，下楼就是了。老板都好热情。 不过房间就唔敢话好好啦，唔住过香港其他噶宾馆，可能都系平均水平啦。', '短评打分': 4}

@@ -1,0 +1,22 @@
+{'descr': '还可以还可以', 'star': 5}
+{'descr': '每次都住这里', 'star': 5}
+{'descr': '可以接受的便宜实惠', 'star': 5}
+{'descr': '经常定中关村公馆内的酒店式公寓 这家还可以 可是没有前台 到了之后发房间号直接入住 房门锁不方便 从里面也需要钥匙锁', 'star': 4}
+{'descr': '很好，很舒服', 'star': 5}
+{'descr': '京东优惠力度大，赞一个。', 'star': 5}
+{'descr': '怎么说呢。看成如家了，其实不是那个如家。只能说还凑合吧。地方不好找，在F座11楼。', 'star': 5}
+{'descr': '环境卫生都不错', 'star': 5}
+{'descr': '服务不错，条件也好', 'star': 5}
+{'descr': '空间挺大的！性价比高！', 'star': 4}
+{'descr': '干净交通方便适合短期出行', 'star': 5}
+{'descr': '交通方便，干净，家庭旅游不错', 'star': 5}
+{'descr': '房间挺大，很不错。。。。。。。。。。。', 'star': 5}
+{'descr': 'Very good apartment, clean and awesome location. Wallking distance from zhongguancun subway and shopping malls. The reception was helpful and amiable. ', 'star': 5}
+{'descr': '房间蛮干净的，但入住时忘记放矿泉水了，check-in的地方比较难找。', 'star': 5}
+{'descr': '在北京这个价格算低的了', 'star': 4}
+{'descr': '位置很好，设施比较新，干净', 'star': 5}
+{'descr': '很有家的感觉，干净 温馨 而且地理位置也相当不错', 'star': 5}
+{'descr': '还行，一般，家具齐全，公寓式的。。。。。。。。。。。', 'star': 5}
+{'descr': '这家酒店太难找了，根本没有门牌标识，在商业住宅楼中，不打几次电话根本找不到；而且没有发票，需要时日后邮寄，这太不正规了！希望改进！', 'star': 1}
+{'descr': '不太好找，但是离黄庄地铁口很近，在个公寓里面，床不太好，席梦思不行了，做了几顿饭，还不错。', 'star': 5}
+{'descr': '出差入住了中关村公馆里的天天如家,感觉还不错,就像入住出租公馆一样,有家的感觉.内部的设施还是很完善的.', 'star': 5}

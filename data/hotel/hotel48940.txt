@@ -1,0 +1,2 @@
+{'短评内容': 'Poor location with construction just outside. Hygiene is good, room is big and high floor - 15th level. Great park and water features in the condo. Recommended for families and long stay.', '短评打分': 4}
+{'短评内容': '性价比很高，很大很干净，从仁恒滨江换到世茂滨江，还不错，就是离地铁站稍远', '短评打分': 5}

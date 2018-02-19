@@ -1,0 +1,12 @@
+{'短评内容': '啊哈哈你说一切成丝！你就能看到我的微博名改成的时候了、', '短评打分': 4}
+{'短评内容': 'this was our 1nt stay extension. Just kindly remind the hotel owner to work closely with his OTA, especially hotel information needs to be updated timely, to avoid misunderstanding and provide correct', '短评打分': 4}
+{'短评内容': 'We did book a hotel room there for 2nts stay on 22-23April2017, but unfortunately it cost us more than 2 hours to find, because the advertised name of hotel was no longer exist(since July 2016, accord', '短评打分': 4}
+{'短评内容': '房间环境还可以，这个价格还不错吧。', '短评打分': 5}
+{'短评内容': '冷，冻死了，不给空调遥控器，隔音相当不好，', '短评打分': 2}
+{'短评内容': '真是一分钱一分货，房间比较冷，半夜就没暖气了', '短评打分': 3}
+{'短评内容': '很不错的酒店', '短评打分': 5}
+{'短评内容': '性价比还成、出差住吧、不讲究！！！！', '短评打分': 3}
+{'短评内容': '一分钱一分货吧，出差住，还成。旁边有挺多吃的。', '短评打分': 3}
+{'短评内容': '就是普通的小旅馆，要档次的最好不要选，在一个巷子里，周围都是这样的旅馆！', '短评打分': 4}
+{'短评内容': '老客户了，老板人挺好，再次推荐入住。', '短评打分': 3}
+{'短评内容': '很好', '短评打分': 5}

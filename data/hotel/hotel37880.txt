@@ -1,0 +1,15 @@
+{'短评内容': '个人觉得还可以吧', '短评打分': 4}
+{'短评内容': '宜必思酒店挺好的', '短评打分': 4}
+{'短评内容': '总体还不错，以后还会考虑入住。', '短评打分': 4}
+{'短评内容': '性价比较高', '短评打分': 4}
+{'短评内容': '很不错', '短评打分': 5}
+{'短评内容': 'The room is equipped with nice working table. It is very comfortable for a business travel at reasonable price. The size of WC is compact and it is well designed and good hot water...!!', '短评打分': 4}
+{'短评内容': '性价比很高，酒店干净位置也好', '短评打分': 5}
+{'短评内容': '地方位置蛮好', '短评打分': 5}
+{'短评内容': '一直住这边 很好', '短评打分': 5}
+{'短评内容': '一直住这边 很好', '短评打分': 5}
+{'短评内容': '商业区内，很方便，房间简洁干净，服务好，很不错', '短评打分': 5}
+{'短评内容': '酒店被子有异味，床单上尽是不明毛发，旁边工地大清早4点就施工，一晚上没有睡，坚决不住第二次！！！！！', '短评打分': 2}
+{'短评内容': 'Meet clearness standard of Ibis network. Good location at Yinzhou district Ningbo. ', '短评打分': 5}
+{'短评内容': 'Convenient location at Yinzhou district of Ningbo. Meet clearness standard of Ibis network. ', '短评打分': 5}
+{'短评内容': '可以', '短评打分': 4}

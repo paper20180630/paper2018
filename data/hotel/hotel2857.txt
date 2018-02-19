@@ -1,0 +1,6 @@
+{'descr': '还不错，性价比可以', 'star': 3}
+{'descr': '还不错，性价比可以', 'star': 3}
+{'descr': "this hotel is bad! first day we came there was no water! we changed 2 rooms! everywhere was a disgusting smell from toilet. water always got stacked in a sink or toilet. wat's more there is a theater ", 'star': 1}
+{'descr': "this hotel is bad! first day we came there was no water! we changed 2 rooms! everywhere was a disgusting smell from toilet. water always got stacked in a sink or toilet. wat's more there is a theater ", 'star': 1}
+{'descr': '房间一般，没有空调', 'star': 3}
+{'descr': '房间一般，没有空调', 'star': 3}

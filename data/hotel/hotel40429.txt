@@ -1,0 +1,12 @@
+{'短评内容': "Hotel location is accessible by hubei mtr, the hotel entrance is via lift at level 4, need to lookout for. Ok for guys, but female friends might want to look for alternatives, there's some smell, and ", '短评打分': 3}
+{'短评内容': '感觉不是很好～', '短评打分': 3}
+{'短评内容': 'The lobby is on the 4th floor. When I first tried to enter, the restaurant employees on the street level directed me to the Vienna Hotel Nearby, which was the wrong place. The first room they gave me ', '短评打分': 3}
+{'短评内容': '这个价位还不错了，很累下面唱歌那么大声我都一直睡到天亮', '短评打分': 3}
+{'短评内容': '差', '短评打分': 1}
+{'短评内容': '楼上是KTV，吵得很！', '短评打分': 2}
+{'短评内容': '房间很一般，也不算干净，凑合着住吧，下次不一定还会住。', '短评打分': 3}
+{'短评内容': '性价比不算太高吧，深圳罗湖，没办法', '短评打分': 3}
+{'短评内容': '舒服，舒適，能住，清潔，好', '短评打分': 3}
+{'短评内容': '一般般', '短评打分': 3}
+{'短评内容': '临时居住，也就住住。。不说了！', '短评打分': 2}
+{'短评内容': 'It was fine but not a great place to stay. Take a strange lift upstairs from the side of a restaurant. Rooms basic but clean. A cheap chinese hotel.', '短评打分': 3}

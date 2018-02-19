@@ -1,0 +1,76 @@
+{'descr': '地理位置优越，环境优雅，服务态度热情。', 'star': 5}
+{'descr': '房间挺好，服务好', 'star': 5}
+{'descr': '好，非常好的酒店', 'star': 5}
+{'descr': '无早餐，可以停车，', 'star': 3}
+{'descr': '停车方便，安全。。。', 'star': 5}
+{'descr': '66666666666', 'star': 5}
+{'descr': '环境不错 经济实惠', 'star': 5}
+{'descr': '环境不错 经济实惠', 'star': 5}
+{'descr': '酒店的设施、周边环境都一般，好在交通很方便：离北方大学东校区小吃街很近，打车8元钱。打车到机场也只要18元。房间卫生和酒店服务用快捷酒店的标准来衡量也说得过去。总之物有所值吧。', 'star': 4}
+{'descr': '挺干净的，环境也挺好，老板很热情', 'star': 5}
+{'descr': '一般', 'star': 3}
+{'descr': '卫生环境和服务都较好', 'star': 4}
+{'descr': '干净整洁 周边环境一般', 'star': 5}
+{'descr': '还可以', 'star': 4}
+{'descr': '还好', 'star': 4}
+{'descr': '还不错', 'star': 4}
+{'descr': '不好', 'star': 3}
+{'descr': '总体来看还可以', 'star': 4}
+{'descr': '环境舒适，交通便捷。价格比较优惠。', 'star': 3}
+{'descr': 'Room is small\nlobby is fashion\nnot provide free breakfast\nthere is restaurant and grocery nearby', 'star': 5}
+{'descr': '1. family type room at 1st fllor is silent, but not desigh for health, because room air is not fresh without windown, should open a tiny window for air to ventilate.\n2. room is clean\n3. equipment with', 'star': 5}
+{'descr': '1. location is nearby train station, restaurant such YHA bean soup\n2. provide free breakfast and internet\n3. room is clean and silent\n4. lobby is with goldfish pool\n5. corridor is furnish with bonsai', 'star': 5}
+{'descr': '超级不隔音啊！边上的叫床声和完事后探讨心得的说话声，无语！', 'star': 3}
+{'descr': '乾淨舒適，價位合適，下次會再住', 'star': 3}
+{'descr': '1 general\n1.1 lobby fashion\n1.2 equip with elevator for guest with big baggage\n1.3 equip with inside tiny supermarkt inside hotel\n1.4 equip with small restaurant outside hotel, price is not cheap.\n\n2.', 'star': 5}
+{'descr': '1. shortcoming:\n1.1 breakfast is not free.\n1.2 Location is some far away from train station, be difficult to catch taxi.\n\n2. merit:\n2.1 new and fashion in room design, lobby design\n2.2 price is reason', 'star': 5}
+{'descr': '环境还不错，室内卫生干净整洁，位置就是有点偏', 'star': 5}
+{'descr': '酒店很干净，只是位置稍远一点，旁边吃饭也算是方便。不错\n', 'star': 5}
+{'descr': '酒店比较干净、安静，房间小了点,位置有点偏', 'star': 5}
+{'descr': '大堂没设电脑,给客人上网带来不便。不提供早餐,给客人少了选择和便利。', 'star': 3}
+{'descr': '地理位置好，服务态度也好。早到店，也帮忙安排了入住~~~值得推荐~', 'star': 5}
+{'descr': '这家酒店确实比想像中要好   房间大   设施简约舒适   服务态度也不错就是位置离市中心商业区较远  不过对于我们出差的来说   确实很实惠', 'star': 5}
+{'descr': '离虞山很近，走路就可以过去，来的这几天下雨很郁闷', 'star': 5}
+{'descr': '房间还可以蛮大的，就是木有大床房啊，真的木有啊 ', 'star': 5}
+{'descr': '服务的态度不错，打扫房间很及时，也很干净', 'star': 5}
+{'descr': '环境很舒适，离公交车站也很近，屋子里设施都很齐全，值得哦', 'star': 5}
+{'descr': '房间挺新，挺干净，就是晚上外面院子里的车喇叭声、人的说话声太吵，休息不好，总体来说性价比不错的。', 'star': 5}
+{'descr': '这里环境空间不错，服务也很好；丢了一块电板，也在吧台。只是服务台上旧的宣传政策容易误导顾客。', 'star': 5}
+{'descr': '房间一般。冬天了还有3个蚊子。这个价位就这样吧', 'star': 5}
+{'descr': '卫生服务都很好，尤其是床垫，很舒服，周围好几家不错的吃饭点，距离虞山很近，可以走路就到，去沙家浜也有直达公交车车，很好。', 'star': 5}
+{'descr': '服务态度很好，环境比较干净。', 'star': 3}
+{'descr': '离虞山近，靠近王四酒店，到方塔也方便。酒店设施和服务中规中矩。', 'star': 5}
+{'descr': '\n     酒店环境还算可以，交通不方便，同时，酒店工作人员严重的对客户不负责任的态度，不值得推广，', 'star': 1}
+{'descr': '价位低，干净，好像刚装修过，挺新，酒店大堂设计独特，印象很深', 'star': 5}
+{'descr': '很划算很干净，就是位置稍微有点偏，去高速有点曲折。。。对于不太认识路的孩纸来说。。。总体很好，推荐入住~~~', 'star': 5}
+{'descr': '酒店服务很好，室内也很干净，住宿很舒服，选择这个酒店很安心，希望别的旅客看到后，可以吧这个酒店列为首位选择，谢谢', 'star': 5}
+{'descr': '非常满意', 'star': 3}
+{'descr': '环境不错，价位适中，服务和餐厅等有待改进', 'star': 5}
+{'descr': 'fang jian bijiao ganjing ,jiage henshihui ', 'star': 5}
+{'descr': '新开的酒店  环境设置还不错 细节上跟锦江之星有一定差距 价格还行  希望逐步改进 ', 'star': 5}
+{'descr': '一个大床，一个小床，挺好的，合适一家三口人，不用加床了', 'star': 5}
+{'descr': '地段安静,房间整洁,服务员态度和蔼,就是淋浴的龙头水太大或是水龙头不能改变方向,搞得满地都是水,望改进', 'star': 5}
+{'descr': '比较满意', 'star': 3}
+{'descr': '还蛮干净，就是旧了点，墙上都是黑色的脚印，大堂在装修，要从后门进出。', 'star': 3}
+{'descr': '简洁，卫生，还可以，快捷型酒店，没有什么特别突出，睡觉还可以', 'star': 5}
+{'descr': '酒店一般。地理位置也一般，房间也一般，但是离那个山很近。空气好。爬山很方便。', 'star': 5}
+{'descr': '还是和以前一样干净，早餐质量比以前下降了。', 'star': 5}
+{'descr': '+酒店很干净，服务很热情。楼下就有一个小便利店，很方便。', 'star': 5}
+{'descr': '离王四酒家很近，走路10分钟；虞山景区也很近。', 'star': 5}
+{'descr': '不怎么好价钱没有优惠', 'star': 3}
+{'descr': '前台写的特价是120一天，网上却是159，159的价格和酒店的标准标价一样，没有任何优惠，有种被欺骗了的感觉，大家小心不要用。', 'star': 1}
+{'descr': 'the room is clean and all of the employee is polite', 'star': 5}
+{'descr': '一般吧。', 'star': 5}
+{'descr': '性价比非常高的酒店，下次还会入住', 'star': 5}
+{'descr': '酒店在虞山山脚下，环境不错，但是周边配套不是很齐全，吃饭啥的不是很方便，另外记得千万不要住5楼，5楼电梯口旁是个电梯的机箱，一直很声音，晚上睡不实的人基本是很难睡着的。', 'star': 5}
+{'descr': '满干净的  设施一般吧', 'star': 5}
+{'descr': '好', 'star': 3}
+{'descr': '好', 'star': 5}
+{'descr': '一个月内二度入住这家宾馆，感觉还是蛮好的。不过这次选的这间房浴室下水有点问题，但是性价比挺好的', 'star': 5}
+{'descr': '酒店所处位置不错, 虞山脚下, 而且边上就是钱柜, 天上人间,喜欢夜生活的旅客住这里很方便!', 'star': 5}
+{'descr': '酒店整体感觉还不错,干净舒适；尤其是价格和位置很好；如果有机会也会再次考虑入住的；', 'star': 5}
+{'descr': '感觉不是很好，晚上蚊子很多，感觉怪怪的，床单不是太干净。床也不怎么舒服，房间隔音不是很好，总的感觉没有汉庭，如家好。', 'star': 1}
+{'descr': '酒店的服务和硬件设施都是不错的，位置也挺好挺方便的，但是他的房间空间是长条形的，不是正规的正方形，感觉不太舒服，但是总体来说酒店还是不错的。', 'star': 5}
+{'descr': '酒店很不错，干净整洁，服务也很周到，值得推荐', 'star': 5}
+{'descr': '前台办理入住手续比较快，效率高，酒店的价格比较经济实惠', 'star': 5}
+{'descr': '&amp;lt;P&amp;gt;说句实话，这个分店确实不怎么样．前台小姐的态度实在是很差，特别是个年纪大点的，天天皱个眉头好象谁欠了她几百万一样．每次结帐都得等个半个小时以上．卫生间没有浴帽．而且地板上只要洒了点水就滑的不行，幸亏年轻，要不早就摔个骨折了．以后再也不想住了！&amp;lt;/P&amp;gt;', 'star': 3}

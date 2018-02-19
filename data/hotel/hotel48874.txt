@@ -1,0 +1,15 @@
+{'短评内容': '酒店不错不错～酒店不错不错～酒店不错不错～酒店不错不错～酒店不错不错～酒店不错不错～酒店不错不错～酒店不错不错～酒店不错不错～', '短评打分': 5}
+{'短评内容': '早餐一般，位置很好，离九记牛腩很近，附近有711。前台服务很好，有免费饮料，小吃。就是房间有点小，不过很干净。', '短评打分': 5}
+{'短评内容': '中环腹地，走路去上环地铁站很近，酒店沿街但门有点小，不太好找，房间里面免费的mini bar送的东西很贴心', '短评打分': 5}
+{'短评内容': '服务很好，房间虽小，但空间安排合理，设施不错。酒店旁边有脚手架，第一次来有点难找，上环地区的路面坑坑洼洼且多上坡，推着行李箱有点费劲。离上环和中环地铁站距离差不多，都不远不近，顺路逛逛中环很方便，附近网红餐厅也很多。', '短评打分': 4}
+{'短评内容': '前台是美女，前台是美女，前台是美女。重要的事情说三遍', '短评打分': 5}
+{'短评内容': '蛮好的', '短评打分': 5}
+{'短评内容': '为什么一个多月了还不退我押金500元？不会是忘记了吧？还是不想退了？', '短评打分': 1}
+{'短评内容': '酒店很小，但是设备设施还是挺不错的，水吧里的免费饮料也丰富，走路可以到中环逛街，逛累了回酒店用苹果盒子看看youtube演唱会挺惬意，对了，离九记牛腩走路不到十分钟', '短评打分': 5}
+{'短评内容': "Booked this hotel because my friends were staying there, pretty expensive, and I thought it wasn't worth it. Yes, the price is definitely expensive. But overall the hotel itself was AMAZING. The staff", '短评打分': 5}
+{'短评内容': 'Was a nice stay, good location to easily reach the sights. Only disappointed about the breakfast, serving old bread.', '短评打分': 4}
+{'短评内容': 'Too noisy. Disturbed sleep. Soundproofing facilities is no good.', '短评打分': 3}
+{'短评内容': 'Too noisy. Disturbed sleep. Soundproofing facilities is no good.', '短评打分': 3}
+{'短评内容': 'Too noisy despite asking for a quiet room. Soundproofing facilities is no good.', '短评打分': 3}
+{'短评内容': '房间太小也太贵，性价比很差', '短评打分': 4}
+{'短评内容': 'Room is very small. Most space of room is occupied  by bed. If the costs is around USD 100～130/night, then it  is acceptable , but it was around USD 250/night when I stayed...whichi is too high compar', '短评打分': 4}

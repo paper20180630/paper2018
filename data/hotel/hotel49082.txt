@@ -1,0 +1,11 @@
+{'短评内容': '环境还可以，安静', '短评打分': 3}
+{'短评内容': '一直忘了点评，是春节期间去的自驾游。老板娘人很好，把I pad忘酒店了，她主动打电话联系我取回。万分感激', '短评打分': 4}
+{'短评内容': '价格便宜', '短评打分': 3}
+{'短评内容': '+ very friendly personnel (collected me in town after i got lost)+ clean+ good location, 20 mins walk from forest park entrance- electric wiring in the room was a bit weird (no plug near the bed), and', '短评打分': 4}
+{'短评内容': '+ very friendly personnel (collected me in town after i got lost) + clean + good location, 20 mins walk from forest park entrance - electric wiring in the room was a bit weird (no plug near the bed), ', '短评打分': 4}
+{'短评内容': 'The staff doesnt speak English at all and there was a big problem with our Ctrip pre-payment. However after a call to Ctrip everything went well. The room was big, with a huge bed. Air conditioning br', '短评打分': 3}
+{'短评内容': '很一般', '短评打分': 3}
+{'短评内容': '实在只能算旅馆类', '短评打分': 3}
+{'短评内容': '“嘉华天然氧吧”名字不错，但实际是金玉其外败絮其中。一行10人（含两个小孩）原本订了四个标双，两个晚上，住了一晚实在忍受不了，提前退房走人。  酒店离售票处有一公里的较远，周围寂静得不得了，晚上都不敢出门。  环境很差，店内只有一个阿姨既是前台又是服务员，真怀疑酒店房间是否有人搞卫生和更换床被。床被有一股说不出的汗酸味。空气中弥漫着一股老鼠屎。  房间没有wifi，只有一楼餐厅才能连上。空调开放时', '短评打分': 1}
+{'短评内容': '“嘉华天然氧吧”名字不错，但实际是金玉其外败絮其中。一行10人（含两个小孩）原本订了四个标双，两个晚上，住了一晚实在忍受不了，提前退房走人。 酒店离售票处有一公里的较远，周围寂静得不得了，晚上都不敢出门。 环境很差，店内只有一个阿姨既是前台又是服务员，真怀疑酒店房间是否有人搞卫生和更换床被。床被有一股说不出的汗酸味。空气中弥漫着一股老鼠屎。 房间没有wifi，只有一楼餐厅才能连上。空调开放时间只有', '短评打分': 1}
+{'短评内容': '还好，第一次到张家界，进出杜老板还可以开车接送，没吃过饭，饭菜怎么样不予以评价', '短评打分': 5}

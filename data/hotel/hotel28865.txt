@@ -1,0 +1,15 @@
+{'短评内容': '不错的地方，环境也好', '短评打分': 5}
+{'短评内容': '非常差，这里的人都有毛病似的', '短评打分': 1}
+{'短评内容': '服务很好环境好干净整洁', '短评打分': 5}
+{'短评内容': '很棒的环境干净整洁', '短评打分': 5}
+{'短评内容': '公寓宽敞明亮，设施也挺好，有厨房和洗衣机，适合家庭出游以及对经济酒店空间狭窄极度不适应的，不需要退房手续非常方便。但是，有些细节需要改善。1.门锁是电子锁确实高科技，但屋内无法反锁，缺乏安全感。如果不改进，会吓跑很多人尤其是女士。2.卫生间淋浴花洒出水太小，到处漏水,浴帘也不合理。3.厨房没有碗筷，纯碎成摆设，最起码有几个盘子碗', '短评打分': 5}
+{'短评内容': 'stayed here last year and love it so i decided to come back. but this year has been a huge disappointment. hopefully, they could address these and go back to the great quality they had.  1. huge cigar', '短评打分': 3}
+{'短评内容': 'Second time Ive stayed here and would stay again...  Very clean place, with fresh bedding when requested and cleaned when requested. Excellent place! ', '短评打分': 5}
+{'短评内容': '还不错。位置也还可以。也挺舒适的。', '短评打分': 4}
+{'短评内容': '非常划算  服务好  房间温馨  ', '短评打分': 5}
+{'短评内容': 'Great apartment with soft enough bed! Full size refrigerator... in an area with lots of restaurants and grocery store nearby.  Place was quiet.Will book again.... 15 min walk to either Dawanglu (Line ', '短评打分': 5}
+{'短评内容': '好', '短评打分': 5}
+{'短评内容': '好', '短评打分': 5}
+{'短评内容': '好', '短评打分': 5}
+{'短评内容': 'Likes very clean apartment. nice view too. love the heat radiator (not A/C which is too dry) excellent service. compliment to the night custodian Mr. Ma for staying late to help me check in.  Dislike ', '短评打分': 4}
+{'短评内容': '替朋友订的！押金收500，大家小心退房时有个河南人会以各种理由拖你钱，说给你转账什么的。小心被骗押金！！！', '短评打分': 2}
